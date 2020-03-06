@@ -2,5 +2,6 @@
 
 Esta serie de libros cuentan la historia de un hacker de los que hay pocos.
 
-**loso**, Git Lover
+**loso**, Larry Plotter Lover and git lover
+
 
